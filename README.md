@@ -1,7 +1,7 @@
 # DecoratorPattern
 ## 装饰者模式
 ### 类图
-!(https://github.com/qiaojiuyuan/DecoratorPattern/raw/master/DecoratorPattern.png)
+![类图](https://github.com/qiaojiuyuan/DecoratorPattern/raw/master/DecoratorPattern.png)
 ### 定义
 ```
 装饰者与代理模式很像，但装饰模式更主要的是用类的组合来解决类的多层继承带来的问题，对原有的类进行扩展但不修改原有的类，
